@@ -20,8 +20,8 @@
 If this code helps and you wish to support me:
 - [PayPal: https://paypal.me/wovow](https://paypal.me/wovow)
 
-- ![License](https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/img/buy%20me%20coffee.jpg)
-- ![License](https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/img/eth.png)
+- ![License](https://raw.githubusercontent.com/lukariny91/Surveillance-Station/main/img/buy%20me%20coffee.jpg)
+- ![License](https://raw.githubusercontent.com/lukariny91/Surveillance-Station/main/img/eth.png)
 - - Ethereum: 0xcD3e7014164c462c07aD2700D1206Fb586388428
 -
 
@@ -33,19 +33,19 @@ If this code helps and you wish to support me:
 - Online:
 ```shell
 # 1. 普通 Normal
-curl -fsSL https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/activated.sh | bash
+curl -fsSL https://raw.githubusercontent.com/lukariny91/Surveillance-Station/main/activated.sh | bash
 # 2. 使用github代理(可自行更换代理, 注意结尾的/) Using github proxy (Please replace the proxy address yourself)
 export GPROXY=https://gh-proxy.com/
-curl -fsSL ${GPROXY}https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/activated.sh  | bash
+curl -fsSL ${GPROXY}https://raw.githubusercontent.com/lukariny91/Surveillance-Station/main/activated.sh  | bash
 export GPROXY=
 # 3. 使用 http(s)/socks5 代理(请自行更换代理地址) Using http(s)/socks5 proxy (Please replace the proxy address yourself)
 export CPROXY=http://username:password@192.168.20.1:7890
-curl -fsSL -x ${CPROXY:+-x ${CPROXY}} https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/activated.sh  | bash
+curl -fsSL -x ${CPROXY:+-x ${CPROXY}} https://raw.githubusercontent.com/lukariny91/Surveillance-Station/main/activated.sh  | bash
 export CPROXY=
 ```
 - Offline:
 ```shell
-# 1. Download https://github.com/ohyeah521/Surveillance-Station/archive/refs/heads/main.zip
+# 1. Download https://github.com/lukariny91/Surveillance-Station/archive/refs/heads/main.zip
 # 2. Unload to your DSM system.
 unzip Surveillance-Station-main.zip
 cd Surveillance-Station-main
@@ -58,19 +58,19 @@ chmod +x activated.sh
 - Online:
 ```shell
 # 1. 普通 Normal
-curl -fsSL https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/activated.sh | bash -s -- -r
+curl -fsSL https://raw.githubusercontent.com/lukariny91/Surveillance-Station/main/activated.sh | bash -s -- -r
 # 2. 使用 github 代理(可自行更换代理, 注意结尾的/) Using github proxy (Please replace the proxy address yourself)
 export GPROXY=https://gh-proxy.com/
-curl -fsSL ${GPROXY}https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/activated.sh | bash -s -- -r
+curl -fsSL ${GPROXY}https://raw.githubusercontent.com/lukariny91/Surveillance-Station/main/activated.sh | bash -s -- -r
 export GPROXY=
 # 3. 使用 http(s)/socks5 代理(请自行更换代理地址) Using http(s)/socks5 proxy (Please replace the proxy address yourself)
 export CPROXY=http://username:password@192.168.20.1:7890
-curl -fsSL ${CPROXY:+-x ${CPROXY}} https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/activated.sh | bash -s -- -r
+curl -fsSL ${CPROXY:+-x ${CPROXY}} https://raw.githubusercontent.com/lukariny91/Surveillance-Station/main/activated.sh | bash -s -- -r
 export CPROXY=
 ```
 - Offline:
 ```shell
-# 1. Download https://github.com/ohyeah521/Surveillance-Station/archive/refs/heads/main.zip
+# 1. Download https://github.com/lukariny91/Surveillance-Station/archive/refs/heads/main.zip
 # 2. Unload to your DSM system.
 unzip Surveillance-Station-main.zip
 cd Surveillance-Station-main
@@ -80,7 +80,7 @@ chmod +x activated.sh
 
 ---
 ### 破解60授权
-![License](https://raw.githubusercontent.com/ohyeah521/Surveillance-Station/main/img/crack_license.png)
+![License](https://raw.githubusercontent.com/lukariny91/Surveillance-Station/main/img/crack_license.png)
 
 
 
